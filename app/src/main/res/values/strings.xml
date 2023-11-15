@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Persisting Data</string>
+    <string-array name="shapes_array">
+        <item>Triangle</item>
+        <item>Square</item>
+        <item>Rectangle</item>
+    </string-array>
+</resources>
